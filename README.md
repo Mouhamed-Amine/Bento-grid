@@ -28,15 +28,15 @@ Users should be able to:
 
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Desktop_preview](./design/desktop-design.jpg)
+![Mobile_preview](./design/mobile-design.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-bento-layout-Wb-hDbO7fC)
+- Live Site URL: [live site URL](https://bento-grid-rho.vercel.app)
 
 ## My process
 
