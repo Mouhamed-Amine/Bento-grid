@@ -57,4 +57,5 @@ Users should be able to:
 
 ## Acknowledgments
 
+I'm thankfull for the team of front-end mentor to provide such a challenging design for us to practice and keep honing our design skills.
 
